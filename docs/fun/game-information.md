@@ -21,4 +21,11 @@
 	| pickmyclass | !pickmyclass | Picks a random WoW class. |
 	| pickmyspec | !pickmyspec | Picks a random WoW spec. |
 	| [reset\|whenisthereset] | !reset | Shows how long until WoW resets for EU/NA. |
+	
+### Gobblegum NewtonBook
+	
+???+ tldr "Gobblegum"
 
+	| Name | Example | Usage |
+	| :--- | :--- | :--- |
+	|[NewtonBook] | !Book | show the daily GobbleGum in NewtonBook. |
